@@ -3,22 +3,15 @@
 import React, { useMemo, useState } from "react";
 import { motion } from "framer-motion";
 import {
-  ArrowRight,
-  BarChart3,
   Bot,
   Camera,
   CheckCircle2,
-  Clock3,
   Database,
-  Download,
-  Eye,
-  Film,
   Globe2,
   Heart,
   Image as ImageIcon,
   LineChart,
   LockKeyhole,
-  MessageSquareText,
   Network,
   Newspaper,
   PieChart,
@@ -29,7 +22,6 @@ import {
   Star,
   TrendingUp,
   Users,
-  Zap,
 } from "lucide-react";
 
 const sections = [
